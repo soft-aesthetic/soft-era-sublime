@@ -24,8 +24,12 @@ awaiting pull request from a noble soul who wants to port this <3
 
 ## Installation
 
-- [insert installation instructions]
-
+- In Sublime Text, go to Preferences > Browse Packages...
+- If there is no `User` directory, create one
+- Inside `User`, navigate to or create a `Color Schemes` directory
+- Copy `Soft Era.tmTheme` into `Color Schemes`
+- In Sublime Text, go to Preferences > Color Scheme...
+- Choose "Soft Era" as your color scheme
 
 💾 enjoy <3
 
